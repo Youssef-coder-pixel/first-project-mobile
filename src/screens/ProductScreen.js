@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     aspectRatio: 1,
   },
   itemContainer: {
-    //j'ai enlever le width: '50%',
+    width: '50%',
     padding: 1,
   },
 });
